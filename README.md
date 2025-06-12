@@ -10,19 +10,21 @@ Mi enfoque está en el **diseño UX/UI**, la usabilidad y el prototipado interac
 
 ## 💻 Herramientas y habilidades
 
-- **Diseño UX/UI:** Figma, Adobe XD, Wireframing, Pensamiento de diseño, Investigación de usuarios, Pruebas de usabilidad
+- **Diseño UX/UI:** Figma, Wireframing, Pensamiento de diseño, Investigación de usuarios, Pruebas de usabilidad
 - **Desarrollo Frontend:** HTML5, CSS3, JavaScript, Diseño responsivo, Bootstrap  
 - **Otros:** Git, GitHub, Canva
 
 ## 🧩 Proyectos destacados
 
+### ActiviCheck - ITSOEH
 - 🎨 [ActiviCheck: Wireframes – Figma Prototype](https://www.figma.com/design/FGhGUH73efwbeXxNyCpFos/Wireframes---ActiviCheck?node-id=0-1&t=GurNYIBuW8TfyTJv-1)
 - 🎨 [ActiviCheck: Flujos de Usuario – Figma Prototype](https://www.figma.com/proto/9BOv5Vgdb0bdylQ2vJUcPO/Flujos-Usuario---ActivyCheck?t=lJPkqJJEfFkH0Idv-1&node-id=91-4923&starting-point-node-id=91%3A4949&show-proto-sidebar=1)
 
-- 🌐 [Demo interactiva de Sitio Web Yao Shih Spa – HTML/CSS/JS](#)
+
+### Prototipo de sitio web - Yao Shih Spa
+- 🌐 [Demo interactiva de Yao Shih Spa – HTML/CSS/JS](#)
 
 ## 📫 Conecta conmigo
-
+- https://linktr.ee/elvislugo
 - [LinkedIn](https://www.linkedin.com/in/elvis-jesus-martinez-lugo)
-- [Portafolio digital](https://tusitio.com)
 - 📧 martinezlugoelvisjesus7@gmail.com
