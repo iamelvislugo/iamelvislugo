@@ -24,6 +24,8 @@ Mi enfoque está en el **diseño UX/UI**, la usabilidad y el prototipado interac
 - 🌐 [Proyecto Sitio Web - Yao Shih Spa](https://github.com/iamelvislugo/spa-website-prototype)
 
 
-## 📫 Conecta conmigo
-- LinkedIn: https://www.linkedin.com/in/elvis-jesus-martinez-lugo
-- Email: martinezlugoelvisjesus7@gmail.com
+## Información de contacto
+
+- 🧑‍💻 Autor: *Elvis Jesus Martinez Lugo*
+- 📫 Email: martinezlugoelvisjesus7@gmail.com  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/elvis-jesus-martinez-lugo](https://www.linkedin.com/in/elvis-jesus-martinez-lugo)
