@@ -23,6 +23,6 @@ Mi enfoque está en el **diseño UX/UI**, la usabilidad y el prototipado interac
 
 ## 📫 Conecta conmigo
 
-- [LinkedIn](www.linkedin.com/in/elvis-jesus-martinez-lugo)
+- [LinkedIn](www.linkedin.com/in/elvis-jesus-martinez-lugo-5537b636a/)
 - [Portafolio digital](https://tusitio.com)
 - 📧 martinezlugoelvisjesus7@gmail.com
