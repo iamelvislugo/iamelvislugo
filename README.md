@@ -1,6 +1,6 @@
 # 👋 Hola, soy Elvis Jesus Martinez Lugo
 
-Profesional emergente de la carrera de Ingeniería en Tecnologías de la Información y Comunicaciones, actualmente en la fase final de mi formación profesional. He concluido mi último semestre presencial y me encuentro en búsqueda de una empresa donde pueda realizar mi **residencia profesional**, etapa final requerida por mi plan de estudios para titularme.
+Soy un profesional emergente de Ingeniería en Tecnologías de la Información y Comunicaciones, apasionado por el diseño de experiencias digitales accesibles, funcionales y centradas en las personas. Mi enfoque actual está en el desarrollo de interfaces (UX/UI) y el desarrollo web front-end. Me apasiona crear experiencias digitales accesibles, funcionales y visualmente atractivas, combinando pensamiento creativo con habilidades técnicas.
 
 He trabajado en proyectos académicos que integran diseño y desarrollo, desde el diseño de interfaces en Figma hasta la construcción de sitios web con HTML5, CSS3, JavaScript y Bootstrap. También aplico metodologías centradas en el usuario como Design Thinking, investigación de usuarios y pruebas de usabilidad para asegurar que cada solución responda a necesidades reales.
 
