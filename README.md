@@ -31,10 +31,10 @@ Desarrollé un prototipo funcional para el sitio web de un SPA, tomando como bas
 Diseñé los wireframes y prototipos visuales en Figma, cuidando la estructura y la navegación. Posteriormente, construí el sitio web utilizando HTML5, CSS3, JavaScript y Bootstrap 5.3, logrando un diseño responsive, atractivo y funcional.
 Durante todo el proceso, apliqué principios de diseño centrado en el usuario y seguí la metodología Design Thinking, combinando prototipado previo, desarrollo incremental y validación constante para asegurar un resultado alineado a las necesidades del negocio y sus clientes.
 
-- 🌐 [Proyecto App móvil - Actividades Complementarias](https://github.com/iamelvislugo/activicheck-ITSOEH)
+- 📱 [Proyecto App móvil - Actividades Complementarias](https://github.com/iamelvislugo/activicheck-ITSOEH)
 
 
-### Prototipo de Sitio Web para SPA – Proyecto Académico (2024)
+### 🌐 Prototipo de Sitio Web para SPA – Proyecto Académico (2024)
 
 Diseñé un prototipo UX/UI en Figma para una aplicación móvil destinada a estudiantes, instructores y coordinadores del ITSOEH, con el fin de facilitar la gestión de actividades complementarias. El objetivo principal fue digitalizar procesos manuales y mejorar la experiencia de usuario mediante una interfaz intuitiva, accesible y bien estructurada.
 Dentro del proyecto, me encargué del diseño de wireframes y flujos de usuario en Figma, así como de realizar una investigación con usuarios para comprender sus necesidades reales y asegurar que el diseño estuviera verdaderamente centrado en ellos. Este trabajo formó parte de un proyecto académico colaborativo enfocado en resolver un problema institucional con una solución funcional y escalable.
