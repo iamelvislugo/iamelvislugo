@@ -18,6 +18,11 @@ Mi enfoque se basa en entender tanto al usuario como los procesos tecnológicos,
 
 Siempre abierto a aprender nuevas herramientas, colaborar en proyectos desafiantes y seguir formándome como profesional en el área de la experiencia de usuario y el desarrollo web.
 
+## 📄 Certificaciones
+- Legacy JavaScript Algorithms and Data Structures – FreeCodeCamp [Ver aquí](https://www.linkedin.com/in/elvis-jesus-martinez-lugo)
+- Introducción al Desarrollo Web I – Google Actívate [Ver aquí](https://drive.google.com/file/d/1RMOcNCvSx0ShqtOWRvCcJW00gWNJXOmG/view)
+- Introducción al Desarrollo Web II – Google Actívate [Ver aquí](https://drive.google.com/file/d/1_bNigPL4ImGurgOmb69YZYUFEpWmpM75/view)
+
 ## 🧩 Proyectos destacados
 
 ### 📱 Prototipo de Aplicación Móvil para Registro y Control de Actividades Complementarias – ITSOEH (2024)
